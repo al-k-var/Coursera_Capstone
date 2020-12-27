@@ -2,6 +2,8 @@ In this report we aim to utilize and leverage the Foursquare location data in or
 The initiative of this project derives from two facts, a) Athens is one of the most prolific tourism capitals in the world (Source1), b) there is a distinct trend of 
 investment (Source2) in the F&D sector in order to capitalize the increased levels of tourism traffic. Even though the sector seems to flourish, the segment of “fine-dinning” 
 is considered to be of increased risk as the owners are worried of steady revenues due to the fact that the majority of their clients are tourists and not natives.
+Due to data-restrictions and in order to implement the “dimension” of tourism in the case, we enhance our approach through the integration of AirBNB data which will aim to 
+correlate with our findings.
 
 We aim to approach the subject through the prism of two objectives:
 i.	Evaluate the distribution of “fine-dinning and drinking” initiatives in the city

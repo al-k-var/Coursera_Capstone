@@ -1,0 +1,4 @@
+The utilized data-sets for the project will be of three origins:
+1)	The segmentation of Athens City will come from the following Wiki page (https://en.wikipedia.org/wiki/Athens_Prefecture)
+2)	The Venue Related data will come from the FourSquare API
+3)	The identification of the most recent expensive AirBNB places in Athens will come from Inside AirBNB (http://insideairbnb.com/get-the-data.html)
